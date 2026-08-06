@@ -1,6 +1,6 @@
 {
   "name": "grov",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Grov automatically captures the context from your private AI sessions and syncs it to a shared team memory. It auto injects relevant memories across developers and future sessions to save tokens and time spent on tasks.",
   "main": "src/index.ts",
   "scripts": {
